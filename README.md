@@ -24,4 +24,4 @@ Este programa en Python permite agregar transacciones contables a un archivo de 
 
 ## Contribuir
 
-Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes enviar sugerencias, informes de errores o solicitudes de funciones a través de problemas (issues) y solicitudes de extracción (pull requests).
+Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes enviar sugerencias, informes de errores o solicitudes de funciones a través de issues y pull requests.
