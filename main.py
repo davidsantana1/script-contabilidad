@@ -152,7 +152,6 @@ def add_transaction(diccionario):
     add_transaction_to_excel(workbook_path, diccionario["Cuentas"], entry_number)
 
 
-
 mi_diccionario = {}
 while True:
     print("1. Crear nueva transacción")
